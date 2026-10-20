@@ -1,0 +1,2 @@
+# Build-only dependency (runtime uses only the standard library).
+pyinstaller>=6.0

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 临时文件
+*.bmp
+_*.png
+_*.out
+_*.err
+_*.txt
+
+# 编辑器
+.vscode/
+.idea/
